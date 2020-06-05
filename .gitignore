@@ -1,3 +1,4 @@
 .idea/
 data/**/*.zip
 .venv/
+**/.ipynb_checkpoints
